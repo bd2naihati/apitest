@@ -10,9 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+
     }
 }
 
-rootProject.name = "JAVAApi"
+rootProject.name = "Expence"
 include(":app")
- 
